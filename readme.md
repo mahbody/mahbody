@@ -1,7 +1,7 @@
 ## About Me
 👋 Hello<br>
 💠 My name is Mahbod and I was born in 2006. <br>
-🔗 My website is: https://mahbody.ir/<br>
+🔗 My website is: <a href="https://mahbody.ir/">mahbody.ir</a><br>
 
 ![](https://visitcount.itsvg.in/api?id=mahbody&icon=0&color=0)
 
@@ -20,12 +20,12 @@
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=mahbody&hide=&show_icons=true&theme=github_dark_dimmed&card_width=495px)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbody&theme=github_dark_dimmed&layout=donut&card_width=495px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbody&theme=github_dark_dimmed&card_width=495px)
 
 ![](https://github-contributor-stats.vercel.app/api?username=mahbody&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahbody&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahbody&theme=dark&no-frame=false&no-bg=true&margin-w=4) -->
